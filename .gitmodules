@@ -2,5 +2,5 @@
 	path = vendor/redis
 	url = git://github.com/mranney/node_redis.git
 [submodule "vendor/express"]
-    path = vendor/express
-    url = git://github.com/visionmedia/express.git
+	path = vendor/express
+	url = git://github.com/visionmedia/express.git
