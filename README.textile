@@ -1,3 +1,9 @@
 h1. Dictionode
 
-Super-fast online dictionary made in node.js and redis!
+Super-fast online dictionary made in node.js and redis! Pages are served with express.
+
+You need:
+
+* A Wiktionary dump (.xml)
+* To generate autocompletion (to do this, run node autocomplete.js) 
+* To generate dictionary entries from the Wiktionary dump (coming soon!)
